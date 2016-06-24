@@ -6,14 +6,6 @@
   overflow: hidden;
 }
 
-#container {
-  height: 90%;
-  width: 90%;
-  background-color: #3498db;
-  border-radius: 30px;
-  margin: 5%;
-}
-
 .navitem{
   float: left;
   color: #1abc9c;
@@ -58,5 +50,9 @@ h1 {
 #homepage{
   width:"100%";
   height: "100%";
-  
+
+}
+
+#myCanvas{
+  width:100%;
 }
